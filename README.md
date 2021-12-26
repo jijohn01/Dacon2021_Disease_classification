@@ -18,7 +18,7 @@ Ref[2]: https://github.com/ildoonet/cutmix
 
 
 ## 03. Dirs
-main.py
+Effi_CutMix.py
 
 .. ├ cutmix
 
