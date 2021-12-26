@@ -5,7 +5,7 @@
   
   예를 들어,
   ![image](https://user-images.githubusercontent.com/28197373/147400543-8e2b5e06-30a9-4f8a-8f3e-cc88897435c7.png)
-
+Link : https://dacon.io/competitions/official/235842/overview/description
 ## 02. 모델 설명
 1) 먼저 모델은 Image 분류 문제에서 상위권에 분포된 모델 중 EfficientNet-b7을 기본으로 실험해 나가기로 했습니다. (결과적으로 EfficientNet 이외에 해보지 못함) 모델은 Ref[1]를 통해 ImageNet Dataset으로 Pretrain된 모델을 사용하였습니다.
 Ref[1]: https://github.com/lukemelas/EfficientNet-PyTorch
