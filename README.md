@@ -1,5 +1,5 @@
 # Dacon2021_Disease_classification
-  - image Classification, Efficient-netb7, ensemble, Cutmix, Weighted Cross Entropy, K-fold
+  - Keyword: image Classification, EfficientNet-b7, ensemble, Cutmix, Weighted Cross Entropy, K-fold
 ## 01. 작물 병해 분류 AI 경진대회
  **최종 순위: 4등 (170中)**
  
