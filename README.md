@@ -1,6 +1,6 @@
 # Dacon2021_Disease_classification
 ## 01. 작물 병해 분류 AI 경진대회
- **Private 4등**
+ **최종 순위: 4등**
  
   병이 걸린 식물의 사진을 입력으로 하여 해당 질병을 분류하는 문제
   
